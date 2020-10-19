@@ -2,7 +2,7 @@
 
 This is the assessment of Cloudflare that I have submitted.
 
-You can see my work [`here`](https://cloudflare-2020-general-engineering-assignment.romilsiddhapura.workers.dev/romil)
+You can see my work [`here`](https://cloudflare-2020-general-engineering-assignment.romilsiddhapura.workers.dev/)
 
 #### Wrangler
 
