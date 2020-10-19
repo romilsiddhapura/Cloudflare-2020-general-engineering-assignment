@@ -1,8 +1,8 @@
-# 👷 `worker-template` Hello World
+# 👷 Cloudflare 
 
-A template for kick starting a Cloudflare worker project.
+This is the assessment of Cloudflare that I have submitted.
 
-[`index.js`](https://github.com/cloudflare/worker-template/blob/master/index.js) is the content of the Workers script.
+You can see my work [`here`](https://cloudflare-2020-general-engineering-assignment.romilsiddhapura.workers.dev/romil)
 
 #### Wrangler
 
